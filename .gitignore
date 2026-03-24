@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build Output
+dist/
+
+# IDE / System files
+.DS_Store
+.vscode/
+.idea/
+*.log
