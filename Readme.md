@@ -28,6 +28,9 @@ Standard `MediaRecorder` is limited to **real-time** recording (a 30s video take
     * Paste it into the **Console** and press **Enter**.
     * The script will initialize the offscreen canvas and begin the recording process automatically.
 
+4.  **This script is in early stages of development and was tested on**:
+    * https://visitestonia.com/en
+
 ## Architecture & Documentation References
 Our implementation follows the **Source → Format → Target** pattern:
 
