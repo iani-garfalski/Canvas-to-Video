@@ -22,7 +22,7 @@ Standard `MediaRecorder` is limited to **real-time** recording (a 30s video take
     This generates `dist/bundle.js`.
 
 3.  **Execute in Browser**:
-    * Open the target website in Chrome or Edge.
+    * Open the target website in Chrome/Edge, Firefox and for webkit Safari or linux alternatives Orion beta or Gnome Web.
     * Open **DevTools** (`F12` or `Cmd+Option+I`).
     * Copy the entire contents of `dist/bundle.js`.
     * Paste it into the **Console** and press **Enter**.
